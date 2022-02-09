@@ -1,0 +1,124 @@
+Timestamp 0
+How old are you? 199
+Are you going actually going trick or treating yourself? 0
+ [Butterfinger] 383
+ [100 Grand Bar] 656
+ [Anonymous brown globs that come in black and orange wrappers] 298
+ [Any full-sized candy bar] 277
+ [Black Jacks] 991
+ [Bonkers] 1182
+ [Bottle Caps] 596
+ [Box’o’ Raisins] 404
+ [Brach products (not including candy corn)] 698
+ [Bubble Gum] 459
+ [Cadbury Creme Eggs] 378
+ [Candy Corn] 394
+ [Vials of pure high fructose corn syrup, for main-lining into your vein] 561
+ [Candy that is clearly just the stuff given out for free at restaurants] 366
+ [Cash, or other forms of legal tender] 303
+ [Chiclets] 508
+ [Caramellos] 597
+ [Snickers] 290
+ [Dark Chocolate Hershey] 370
+ [Dental paraphenalia] 336
+ [Dots] 493
+ [Fuzzy Peaches] 655
+ [Generic Brand Acetaminophen] 532
+ [Glow sticks] 460
+ [Broken glow stick] 350
+ [Goo Goo Clusters] 900
+ [Good N' Plenty] 583
+ [Gum from baseball cards] 444
+ [Gummy Bears straight up] 430
+ [Creepy Religious comics/Chick Tracts] 335
+ [Healthy Fruit] 500
+ [Heath Bar] 478
+ [Hershey’s Kissables] 628
+ [Hershey’s Milk Chocolate] 479
+ [Hugs (actual physical hugs)] 503
+ [Jolly Rancher (bad flavor)] 434
+ [Jolly Ranchers (good flavor)] 403
+ [Kale smoothie] 427
+ [Kinder Happy Hippo] 917
+ [Kit Kat] 290
+ [Hard Candy] 646
+ [Lapel Pins] 625
+ [LemonHeads] 540
+ [Licorice] 400
+ [Licorice (not black)] 509
+ [Lindt Truffle] 435
+ [Lollipops] 616
+ [Mars] 614
+ [Mary Janes] 952
+ [Maynards] 1214
+ [Milk Duds] 504
+ [LaffyTaffy] 608
+ [Minibags of chips] 647
+ [JoyJoy (Mit Iodine)] 1158
+ [Reggie Jackson Bar] 1210
+ [Pixy Stix] 579
+ [Nerds] 433
+ [Nestle Crunch] 448
+ [Now'n'Laters] 767
+ [Pencils] 586
+ [Milky Way] 465
+ [Reese’s Peanut Butter Cups] 257
+ [Tolberone something or other] 485
+ [Runts] 683
+ [Junior Mints] 442
+ [Senior Mints] 975
+ [Mint Kisses] 837
+ [Mint Juleps] 695
+ [Mint Leaves] 839
+ [Peanut M&M’s] 329
+ [Regular M&Ms] 398
+ [Mint M&Ms] 612
+ [Ribbon candy] 776
+ [Rolos] 471
+ [Skittles] 454
+ [Smarties (American)] 472
+ [Smarties (Commonwealth)] 1001
+ [Chick-o-Sticks (we don’t know what that is)] 1085
+ [Spotted Dick] 919
+ [Starburst] 476
+ [Swedish Fish] 519
+ [Sweetums] 1195
+ [Those odd marshmallow circus peanut things] 520
+ [Three Musketeers] 499
+ [Peterson Brand Sidewalk Chalk] 889
+ [Peanut Butter Bars] 714
+ [Peanut Butter Jars] 786
+ [Trail Mix] 687
+ [Twix] 369
+ [Vicodin] 638
+ [White Bread] 667
+ [Whole Wheat anything] 683
+ [York Peppermint Patties] 464
+Please leave any remarks or comments regarding your choices. 4745
+Please list any items not included above that give you JOY. 3196
+Please list any items not included above that give you DESPAIR. 3858
+Guess the number of mints in my hand. 478
+Betty or Veronica? 294
+Check all that apply: "I cried tears of sadness at the end of  ____________" 928
+"That dress* that went viral early this year - when I first saw it, it was ________" 520
+Fill in the blank: "Taylor Swift is a force for ___________" 5630
+What is your favourite font? 1076
+If you squint really hard, the words "Intelligent Design" would look like. 632
+Fill in the blank: "Imitation is a form of ____________" 409
+Please estimate the degree(s) of separation you have from the following celebrities [JK Rowling] 551
+Please estimate the degree(s) of separation you have from the following celebrities [JJ Abrams] 557
+Please estimate the degree(s) of separation you have from the following celebrities [Beyoncé] 562
+Please estimate the degree(s) of separation you have from the following celebrities [Bieber] 584
+Please estimate the degree(s) of separation you have from the following celebrities [Kevin Bacon] 555
+Please estimate the degree(s) of separation you have from the following celebrities [Francis Bacon (1561 - 1626)] 565
+ [Sea-salt flavored stuff, probably chocolate, since this is the "it" flavor of the year] 580
+ [Necco Wafers] 683
+Which day do you prefer, Friday or Sunday? 1037
+Please estimate the degrees of separation you have from the following folks [Bruce Lee] 5630
+Please estimate the degrees of separation you have from the following folks [JK Rowling] 5630
+Please estimate the degrees of separation you have from the following folks [Malala Yousafzai] 5630
+Please estimate the degrees of separation you have from the following folks [Thom Yorke] 5630
+Please estimate the degrees of separation you have from the following folks [JJ Abrams] 5630
+Please estimate the degrees of separation you have from the following folks [Hillary Clinton] 5630
+Please estimate the degrees of separation you have from the following folks [Donald Trump] 5630
+Please estimate the degrees of separation you have from the following folks [Beyoncé Knowles] 5630
