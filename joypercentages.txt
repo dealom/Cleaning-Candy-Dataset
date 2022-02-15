@@ -1,0 +1,465 @@
+ [Butterfinger] 0.7869258623975605
+JOY        4129
+DESPAIR    1118
+Name:  [Butterfinger], dtype: int64
+
+ [100 Grand Bar] 0.6897868918375553
+JOY        3431
+DESPAIR    1543
+Name:  [100 Grand Bar], dtype: int64
+
+ [Anonymous brown globs that come in black and orange wrappers] 0.10333833458364591
+DESPAIR    4781
+JOY         551
+Name:  [Anonymous brown globs that come in black and orange wrappers], dtype: int64
+
+ [Any full-sized candy bar] 0.9299458247711564
+JOY        4978
+DESPAIR     375
+Name:  [Any full-sized candy bar], dtype: int64
+
+ [Black Jacks] 0.07307609398577279
+DESPAIR    4300
+JOY         339
+Name:  [Black Jacks], dtype: int64
+
+ [Bonkers] 0.12005395683453238
+DESPAIR    3914
+JOY         534
+Name:  [Bonkers], dtype: int64
+
+ [Bottle Caps] 0.4096146205800556
+DESPAIR    2972
+JOY        2062
+Name:  [Bottle Caps], dtype: int64
+
+ [Box’o’ Raisins] 0.1115575966322235
+DESPAIR    4643
+JOY         583
+Name:  [Box’o’ Raisins], dtype: int64
+
+ [Brach products (not including candy corn)] 0.22506082725060828
+DESPAIR    3822
+JOY        1110
+Name:  [Brach products (not including candy corn)], dtype: int64
+
+ [Bubble Gum] 0.2684200348095146
+DESPAIR    3783
+JOY        1388
+Name:  [Bubble Gum], dtype: int64
+
+ [Cadbury Creme Eggs] 0.5862528560548362
+JOY        3079
+DESPAIR    2173
+Name:  [Cadbury Creme Eggs], dtype: int64
+
+ [Candy Corn] 0.3949579831932773
+DESPAIR    3168
+JOY        2068
+Name:  [Candy Corn], dtype: int64
+
+ [Vials of pure high fructose corn syrup, for main-lining into your vein] 0.16058394160583941
+DESPAIR    4255
+JOY         814
+Name:  [Vials of pure high fructose corn syrup, for main-lining into your vein], dtype: int64
+
+ [Candy that is clearly just the stuff given out for free at restaurants] 0.04331306990881459
+DESPAIR    5036
+JOY         228
+Name:  [Candy that is clearly just the stuff given out for free at restaurants], dtype: int64
+
+ [Cash, or other forms of legal tender] 0.8209123333959076
+JOY        4373
+DESPAIR     954
+Name:  [Cash, or other forms of legal tender], dtype: int64
+
+ [Chiclets] 0.2772354549004295
+DESPAIR    3702
+JOY        1420
+Name:  [Chiclets], dtype: int64
+
+ [Caramellos] 0.6511027220345719
+JOY        3277
+DESPAIR    1756
+Name:  [Caramellos], dtype: int64
+
+ [Snickers] 0.8750936329588015
+JOY        4673
+DESPAIR     667
+Name:  [Snickers], dtype: int64
+
+ [Dark Chocolate Hershey] 0.694106463878327
+JOY        3651
+DESPAIR    1609
+Name:  [Dark Chocolate Hershey], dtype: int64
+
+ [Dental paraphenalia] 0.0680015111446921
+DESPAIR    4934
+JOY         360
+Name:  [Dental paraphenalia], dtype: int64
+
+ [Dots] 0.3651936928168192
+DESPAIR    3261
+JOY        1876
+Name:  [Dots], dtype: int64
+
+ [Fuzzy Peaches] 0.295678391959799
+DESPAIR    3504
+JOY        1471
+Name:  [Fuzzy Peaches], dtype: int64
+
+ [Generic Brand Acetaminophen] 0.10729697920753237
+DESPAIR    4551
+JOY         547
+Name:  [Generic Brand Acetaminophen], dtype: int64
+
+ [Glow sticks] 0.5154738878143134
+JOY        2665
+DESPAIR    2505
+Name:  [Glow sticks], dtype: int64
+
+ [Broken glow stick] 0.019318181818181818
+DESPAIR    5178
+JOY         102
+Name:  [Broken glow stick], dtype: int64
+
+ [Goo Goo Clusters] 0.2646934460887949
+DESPAIR    3478
+JOY        1252
+Name:  [Goo Goo Clusters], dtype: int64
+
+ [Good N' Plenty] 0.2678819100455716
+DESPAIR    3695
+JOY        1352
+Name:  [Good N' Plenty], dtype: int64
+
+ [Gum from baseball cards] 0.05399151561897416
+DESPAIR    4906
+JOY         280
+Name:  [Gum from baseball cards], dtype: int64
+
+ [Gummy Bears straight up] 0.5667307692307693
+JOY        2947
+DESPAIR    2253
+Name:  [Gummy Bears straight up], dtype: int64
+
+ [Creepy Religious comics/Chick Tracts] 0.09669499527856468
+DESPAIR    4783
+JOY         512
+Name:  [Creepy Religious comics/Chick Tracts], dtype: int64
+
+ [Healthy Fruit] 0.1881091617933723
+DESPAIR    4165
+JOY         965
+Name:  [Healthy Fruit], dtype: int64
+
+ [Heath Bar] 0.6420807453416149
+JOY        3308
+DESPAIR    1844
+Name:  [Heath Bar], dtype: int64
+
+ [Hershey’s Kissables] 0.6075569772091164
+JOY        3039
+DESPAIR    1963
+Name:  [Hershey’s Kissables], dtype: int64
+
+ [Hershey’s Milk Chocolate] 0.6893807027761599
+JOY        3551
+DESPAIR    1600
+Name:  [Hershey’s Milk Chocolate], dtype: int64
+
+ [Hugs (actual physical hugs)] 0.22469280280866002
+DESPAIR    3975
+JOY        1152
+Name:  [Hugs (actual physical hugs)], dtype: int64
+
+ [Jolly Rancher (bad flavor)] 0.12740569668976134
+DESPAIR    4534
+JOY         662
+Name:  [Jolly Rancher (bad flavor)], dtype: int64
+
+ [Jolly Ranchers (good flavor)] 0.6248325999617371
+JOY        3266
+DESPAIR    1961
+Name:  [Jolly Ranchers (good flavor)], dtype: int64
+
+ [Kale smoothie] 0.05765904285988853
+DESPAIR    4903
+JOY         300
+Name:  [Kale smoothie], dtype: int64
+
+ [Kinder Happy Hippo] 0.29174623382134524
+DESPAIR    3338
+JOY        1375
+Name:  [Kinder Happy Hippo], dtype: int64
+
+ [Kit Kat] 0.9063670411985019
+JOY        4840
+DESPAIR     500
+Name:  [Kit Kat], dtype: int64
+
+ [Hard Candy] 0.30096308186195825
+DESPAIR    3484
+JOY        1500
+Name:  [Hard Candy], dtype: int64
+
+ [Lapel Pins] 0.0931068931068931
+DESPAIR    4539
+JOY         466
+Name:  [Lapel Pins], dtype: int64
+
+ [LemonHeads] 0.5296660117878192
+JOY        2696
+DESPAIR    2394
+Name:  [LemonHeads], dtype: int64
+
+ [Licorice] 0.28107074569789675
+DESPAIR    3760
+JOY        1470
+Name:  [Licorice], dtype: int64
+
+ [Licorice (not black)] 0.46553407537590313
+DESPAIR    2737
+JOY        2384
+Name:  [Licorice (not black)], dtype: int64
+
+ [Lindt Truffle] 0.7726660250240616
+JOY        4014
+DESPAIR    1181
+Name:  [Lindt Truffle], dtype: int64
+
+ [Lollipops] 0.45811727163940963
+DESPAIR    2717
+JOY        2297
+Name:  [Lollipops], dtype: int64
+
+ [Mars] 0.6798245614035088
+JOY        3410
+DESPAIR    1606
+Name:  [Mars], dtype: int64
+
+ [Mary Janes] 0.2394185549380077
+DESPAIR    3558
+JOY        1120
+Name:  [Mary Janes], dtype: int64
+
+ [Maynards] 0.1272644927536232
+DESPAIR    3854
+JOY         562
+Name:  [Maynards], dtype: int64
+
+ [Milk Duds] 0.6051502145922747
+JOY        3102
+DESPAIR    2024
+Name:  [Milk Duds], dtype: int64
+
+ [LaffyTaffy] 0.46654719235364395
+DESPAIR    2679
+JOY        2343
+Name:  [LaffyTaffy], dtype: int64
+
+ [Minibags of chips] 0.41300421432871764
+DESPAIR    2925
+JOY        2058
+Name:  [Minibags of chips], dtype: int64
+
+ [JoyJoy (Mit Iodine)] 0.055008944543828264
+DESPAIR    4226
+JOY         246
+Name:  [JoyJoy (Mit Iodine)], dtype: int64
+
+ [Reggie Jackson Bar] 0.17081447963800905
+DESPAIR    3665
+JOY         755
+Name:  [Reggie Jackson Bar], dtype: int64
+
+ [Pixy Stix] 0.4820827558899228
+DESPAIR    2616
+JOY        2435
+Name:  [Pixy Stix], dtype: int64
+
+ [Nerds] 0.682893977294593
+JOY        3549
+DESPAIR    1648
+Name:  [Nerds], dtype: int64
+
+ [Nestle Crunch] 0.8060594365109996
+JOY        4177
+DESPAIR    1005
+Name:  [Nestle Crunch], dtype: int64
+
+ [Now'n'Laters] 0.3758996504215505
+DESPAIR    3035
+JOY        1828
+Name:  [Now'n'Laters], dtype: int64
+
+ [Pencils] 0.11697065820777161
+DESPAIR    4454
+JOY         590
+Name:  [Pencils], dtype: int64
+
+ [Milky Way] 0.7852855759922556
+JOY        4056
+DESPAIR    1109
+Name:  [Milky Way], dtype: int64
+
+ [Reese’s Peanut Butter Cups] 0.9071282337613996
+JOY        4874
+DESPAIR     499
+Name:  [Reese’s Peanut Butter Cups], dtype: int64
+
+ [Tolberone something or other] 0.7718172983479106
+JOY        3971
+DESPAIR    1174
+Name:  [Tolberone something or other], dtype: int64
+
+ [Runts] 0.48170608449565394
+DESPAIR    2564
+JOY        2383
+Name:  [Runts], dtype: int64
+
+ [Junior Mints] 0.6540092521202776
+JOY        3393
+DESPAIR    1795
+Name:  [Junior Mints], dtype: int64
+
+ [Senior Mints] 0.14156820622986035
+DESPAIR    3996
+JOY         659
+Name:  [Senior Mints], dtype: int64
+
+ [Mint Kisses] 0.3736699353223451
+DESPAIR    3002
+JOY        1791
+Name:  [Mint Kisses], dtype: int64
+
+ [Mint Juleps] 0.4662613981762918
+DESPAIR    2634
+JOY        2301
+Name:  [Mint Juleps], dtype: int64
+
+ [Mint Leaves] 0.14422876226257567
+DESPAIR    4100
+JOY         691
+Name:  [Mint Leaves], dtype: int64
+
+ [Peanut M&M’s] 0.8111677042067534
+JOY        4300
+DESPAIR    1001
+Name:  [Peanut M&M’s], dtype: int64
+
+ [Regular M&Ms] 0.8138379204892966
+JOY        4258
+DESPAIR     974
+Name:  [Regular M&Ms], dtype: int64
+
+ [Mint M&Ms] 0.49123156636110005
+DESPAIR    2553
+JOY        2465
+Name:  [Mint M&Ms], dtype: int64
+
+ [Ribbon candy] 0.19901112484548825
+DESPAIR    3888
+JOY         966
+Name:  [Ribbon candy], dtype: int64
+
+ [Rolos] 0.7697228144989339
+JOY        3971
+DESPAIR    1188
+Name:  [Rolos], dtype: int64
+
+ [Skittles] 0.7212132921174652
+JOY        3733
+DESPAIR    1443
+Name:  [Skittles], dtype: int64
+
+ [Smarties (American)] 0.5663047692904226
+JOY        2921
+DESPAIR    2237
+Name:  [Smarties (American)], dtype: int64
+
+ [Smarties (Commonwealth)] 0.35515230071289694
+DESPAIR    2985
+JOY        1644
+Name:  [Smarties (Commonwealth)], dtype: int64
+
+ [Chick-o-Sticks (we don’t know what that is)] 0.19537953795379537
+DESPAIR    3657
+JOY         888
+Name:  [Chick-o-Sticks (we don’t know what that is)], dtype: int64
+
+ [Spotted Dick] 0.06240713224368499
+DESPAIR    4417
+JOY         294
+Name:  [Spotted Dick], dtype: int64
+
+ [Starburst] 0.7124563445867288
+JOY        3672
+DESPAIR    1482
+Name:  [Starburst], dtype: int64
+
+ [Swedish Fish] 0.5654470749364117
+JOY        2890
+DESPAIR    2221
+Name:  [Swedish Fish], dtype: int64
+
+ [Sweetums] 0.14904171364148816
+DESPAIR    3774
+JOY         661
+Name:  [Sweetums], dtype: int64
+
+ [Those odd marshmallow circus peanut things] 0.15831702544031312
+DESPAIR    4301
+JOY         809
+Name:  [Those odd marshmallow circus peanut things], dtype: int64
+
+ [Three Musketeers] 0.7366984993178718
+JOY        3780
+DESPAIR    1351
+Name:  [Three Musketeers], dtype: int64
+
+ [Peterson Brand Sidewalk Chalk] 0.11284539126766505
+DESPAIR    4206
+JOY         535
+Name:  [Peterson Brand Sidewalk Chalk], dtype: int64
+
+ [Peanut Butter Bars] 0.4888120423108218
+DESPAIR    2513
+JOY        2403
+Name:  [Peanut Butter Bars], dtype: int64
+
+ [Peanut Butter Jars] 0.27890173410404623
+DESPAIR    3493
+JOY        1351
+Name:  [Peanut Butter Jars], dtype: int64
+
+ [Trail Mix] 0.2435767752377099
+DESPAIR    3739
+JOY        1204
+Name:  [Trail Mix], dtype: int64
+
+ [Twix] 0.8840524615092188
+JOY        4651
+DESPAIR     610
+Name:  [Twix], dtype: int64
+
+ [Vicodin] 0.5020032051282052
+JOY        2506
+DESPAIR    2486
+Name:  [Vicodin], dtype: int64
+
+ [White Bread] 0.0539995970179327
+DESPAIR    4695
+JOY         268
+Name:  [White Bread], dtype: int64
+
+ [Whole Wheat anything] 0.0897513644633111
+DESPAIR    4503
+JOY         444
+Name:  [Whole Wheat anything], dtype: int64
+
+ [York Peppermint Patties] 0.6976384049554781
+JOY        3604
+DESPAIR    1562
+Name:  [York Peppermint Patties], dtype: int64
+
