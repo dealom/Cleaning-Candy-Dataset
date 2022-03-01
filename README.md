@@ -1,4 +1,4 @@
-# <center> Dataset Cleaning w/ Pandas
+# <center> Dataset Cleaning w/ Pandas </center>
 
 ## Purpose
 The purpose of this project is to practice dataset cleaning using pandas. I use various functions to clean a dataset so I can perform exploratory data analysis on it later on.
