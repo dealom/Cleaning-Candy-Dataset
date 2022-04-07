@@ -27,12 +27,15 @@ The mean age in this dataset is 36.8 years old. The median is 35. The mode is 35
 
 ## Data Visualizations
 ![image](https://user-images.githubusercontent.com/85703853/162323679-a693a758-6b99-4399-9ac1-2e5c195f1d4f.png)
+
 Younger people tend to choose Joy more often. X axis is age, Y axis is joy percentage.
 
 ![image](https://user-images.githubusercontent.com/85703853/162323783-5a8d5173-1d62-4816-b6b7-e04fbf65e0e3.png)
+
 Top 10 candies by joy percentage. 'Any full sized candy bar' has the highest joy percentage, probably due to its flexiblility.
 
 ![image](https://user-images.githubusercontent.com/85703853/162323912-ff3ca42f-4bd5-49d6-82fc-12f83de8ce1a.png)
+
 Bottom 10 candies by joy percentage. All of these have less than 10% joy. 'Broken glow stick' is the lowest, probably since it's poisonous.
 
 
